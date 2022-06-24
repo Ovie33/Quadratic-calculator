@@ -1,0 +1,10 @@
+.h1 {
+  margin: 0 auto;
+  word-spacing: 10px;
+  letter-spacing: 10px;
+}
+.header {
+  padding: 50px 50px 70px 80px;
+  margin: 0 auto;
+  width: fit-content;
+}

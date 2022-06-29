@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quadratic-calculator/static/css/main.36026ae2.css",
+    "main.js": "/Quadratic-calculator/static/js/main.3b74d266.js",
+    "index.html": "/Quadratic-calculator/index.html",
+    "main.36026ae2.css.map": "/Quadratic-calculator/static/css/main.36026ae2.css.map",
+    "main.3b74d266.js.map": "/Quadratic-calculator/static/js/main.3b74d266.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36026ae2.css",
+    "static/js/main.3b74d266.js"
+  ]
+}
